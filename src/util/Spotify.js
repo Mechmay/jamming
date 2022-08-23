@@ -1,6 +1,6 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
-const clientId = '9efa260a35184ba398f010dbcd797ebe';
+const clientId = '';
 const redirectUri = 'http://Jamup.surge.sh/';
 let accessToken;
 
